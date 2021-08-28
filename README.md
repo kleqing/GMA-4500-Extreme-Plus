@@ -3,6 +3,7 @@
 ## ⚠️ This is a tool that it will install the Intel(R) HD Graphics Family driver to your computer.
 
 ## 💾 How to install?
+	* Extract 'Intel HD Graphics.zip' (Just extract)
 	* Run 3 file on the main folder (File 1, 2 and 3) step-by-step
 
 ## ❔ How about the Extra folder?
