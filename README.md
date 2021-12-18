@@ -15,7 +15,6 @@
 	 as myth say they shorten the life cycle of hardware and since this is probably your only PC and that 
 	 probably you dont have a cooling pad then is up to you to disable it (Enabled by default).
 
-
 	* Increase Quality: It will increase the quality of the image (Disabled by default).
 
 	* (Hybird) Kernel Beta: This is a batch files that switch between the different kernels
