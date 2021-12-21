@@ -1,4 +1,4 @@
-# GMA-4500-Extreme-Plus
+# Intel GMA 4500 Extreme Plus
 
 * Driver was moded by nIGHTmAYOR
 * For the original downloads, go to this [link](https://www.tenforums.com/graphic-cards/167898-custom-driver-intel-gma-4500-m-mhd-extreme-plus-2-nighmayor.html)
